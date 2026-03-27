@@ -2,8 +2,12 @@
 
 Personal portfolio website built with HTML, CSS, and JavaScript.
 
-## Files
+## Structure
 
-- `index.html` - main page structure
-- `style.css` - site styling
-- `script.js` - interactive behavior
+- `site/index.html` - main page structure
+- `site/style.css` - site styling
+- `site/script.js` - interactive behavior
+
+## Netlify
+
+This repo is configured to publish the `site` directory.
